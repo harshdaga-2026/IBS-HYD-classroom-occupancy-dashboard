@@ -8,9 +8,9 @@ st.set_page_config(
 
 st.title("IBS-HYD Classroom Occupancy Dashboard")
 
-# --------------------------------------------------
+# ==================================================
 # MASTER ROOM LIST
-# --------------------------------------------------
+# ==================================================
 
 lt_rooms = [
     "LT-A","LT-B","LT-C","LT-D","LT-E","LT-F",
@@ -21,9 +21,9 @@ cr_rooms = [f"CR-{i}" for i in range(1,29)]
 
 all_rooms = lt_rooms + cr_rooms
 
-# --------------------------------------------------
+# ==================================================
 # LOAD DATA
-# --------------------------------------------------
+# ==================================================
 
 try:
 
@@ -31,25 +31,23 @@ try:
 
     st.success("Timetable Loaded Successfully")
 
-    # --------------------------------------------------
+    # ==================================================
     # KPI SECTION
-    # --------------------------------------------------
+    # ==================================================
 
     total_rooms = len(all_rooms)
 
     col1, col2, col3 = st.columns(3)
 
     col1.metric("Total Rooms", total_rooms)
-
     col2.metric("LT Rooms", len(lt_rooms))
-
     col3.metric("CR Rooms", len(cr_rooms))
 
     st.divider()
 
-    # --------------------------------------------------
+    # ==================================================
     # FULL TIMETABLE
-    # --------------------------------------------------
+    # ==================================================
 
     st.header("Full Timetable")
 
@@ -57,9 +55,9 @@ try:
 
     st.divider()
 
-    # --------------------------------------------------
+    # ==================================================
     # FACULTY SEARCH
-    # --------------------------------------------------
+    # ==================================================
 
     st.header("Faculty Search")
 
@@ -77,9 +75,9 @@ try:
 
     st.divider()
 
-    # --------------------------------------------------
+    # ==================================================
     # ROOM SEARCH
-    # --------------------------------------------------
+    # ==================================================
 
     st.header("Room Search")
 
@@ -97,26 +95,36 @@ try:
         )
     else:
         st.warning(
-            f"{room} is not used in the timetable."
+            f"{room} is currently not used in the timetable."
         )
 
     st.divider()
 
-    # --------------------------------------------------
+    # ==================================================
     # VACANT ROOM FINDER
-    # --------------------------------------------------
+    # ==================================================
 
     st.header("Vacant Room Finder")
 
-    selected_day = st.selectbox(
-        "Select Day",
-        sorted(df["Day"].dropna().unique())
-    )
+    col1, col2, col3 = st.columns(3)
 
-    selected_time = st.selectbox(
-        "Select Time Slot",
-        sorted(df["Time_Slot"].dropna().unique())
-    )
+    with col1:
+        selected_day = st.selectbox(
+            "Select Day",
+            sorted(df["Day"].dropna().unique())
+        )
+
+    with col2:
+        selected_time = st.selectbox(
+            "Select Time Slot",
+            sorted(df["Time_Slot"].dropna().unique())
+        )
+
+    with col3:
+        room_type = st.selectbox(
+            "Room Type",
+            ["All", "LT Only", "CR Only"]
+        )
 
     occupied_rooms = df[
         (df["Day"] == selected_day)
@@ -130,6 +138,20 @@ try:
         if room not in occupied_rooms
     ]
 
+    if room_type == "LT Only":
+        vacant_rooms = [
+            room
+            for room in vacant_rooms
+            if room.startswith("LT")
+        ]
+
+    elif room_type == "CR Only":
+        vacant_rooms = [
+            room
+            for room in vacant_rooms
+            if room.startswith("CR")
+        ]
+
     col1, col2 = st.columns(2)
 
     with col1:
@@ -142,18 +164,27 @@ try:
 
     st.divider()
 
-    # --------------------------------------------------
+    # ==================================================
     # OCCUPANCY SUMMARY
-    # --------------------------------------------------
+    # ==================================================
 
     st.header("Occupancy Summary")
 
     occupied_count = len(occupied_rooms)
 
-    vacant_count = len(vacant_rooms)
+    if room_type == "LT Only":
+        total_available = len(lt_rooms)
+
+    elif room_type == "CR Only":
+        total_available = len(cr_rooms)
+
+    else:
+        total_available = len(all_rooms)
+
+    vacant_count = total_available - occupied_count
 
     occupancy_percent = round(
-        (occupied_count / total_rooms) * 100,
+        (occupied_count / total_available) * 100,
         2
     )
 
