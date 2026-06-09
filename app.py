@@ -251,37 +251,36 @@ try:
             sorted(df["Time_Slot"].dropna().unique())
         )
         occupied_rooms = df[
-                (df["Day"] == booking_day)
-                &
-                (df["Time_Slot"] == booking_time)
-            ]["Room"].tolist()
-            
-            bookings = sheet.get_all_records()
-            
-            approved_rooms = []
-            
-            for row in bookings:
-            
-                if (
-                    row["Day"] == booking_day
-                    and row["Time_Slot"] == booking_time
-                    and row["Status"] == "Approved"
-                ):
-                    approved_rooms.append(row["Room"])
-            
-            available_rooms = [
-                room
-                for room in all_rooms
-                if room not in occupied_rooms
-                and room not in approved_rooms
-            ]
-            
-            booking_room = st.selectbox(
-                "Available Rooms",
-                sorted(available_rooms)
-            )
-
-       
+            (df["Day"] == booking_day)
+            &
+            (df["Time_Slot"] == booking_time)
+        ]["Room"].tolist()
+        
+        bookings = sheet.get_all_records()
+        
+        approved_rooms = []
+        
+        for row in bookings:
+        
+            if (
+                row["Day"] == booking_day
+                and row["Time_Slot"] == booking_time
+                and row["Status"] == "Approved"
+            ):
+                approved_rooms.append(row["Room"])
+        
+        available_rooms = [
+            room
+            for room in all_rooms
+            if room not in occupied_rooms
+            and room not in approved_rooms
+        ]
+        
+        booking_room = st.selectbox(
+            "Available Rooms",
+            sorted(available_rooms)
+        )
+        
 
         submit = st.form_submit_button("Submit Booking Request")
 
