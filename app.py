@@ -1,5 +1,7 @@
 import streamlit as st
 import pandas as pd
+import gspread
+from google.oauth2.service_account import Credentials
 
 st.set_page_config(
     page_title="IBS-HYD Classroom Occupancy Dashboard",
@@ -7,6 +9,28 @@ st.set_page_config(
 )
 
 st.title("IBS-HYD Classroom Occupancy Dashboard")
+
+# GOOGLE SHEETS CONNECTION
+
+try:
+    scope = [
+        "https://www.googleapis.com/auth/spreadsheets",
+        "https://www.googleapis.com/auth/drive"
+    ]
+
+    creds = Credentials.from_service_account_info(
+        st.secrets["gcp_service_account"],
+        scopes=scope
+    )
+
+    client = gspread.authorize(creds)
+
+    sheet = client.open("IBS Room Bookings").sheet1
+
+    st.success("Google Sheets Connected Successfully")
+
+except Exception as e:
+    st.error(f"Google Sheets Error: {e}")
 
 # ==================================================
 # MASTER ROOM LIST
