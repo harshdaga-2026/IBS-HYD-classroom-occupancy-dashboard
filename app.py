@@ -97,18 +97,6 @@ try:
 
     st.divider()
 
-    # Weekly Timetable Matrix
-
-    st.header("Weekly Timetable Matrix")
-
-    pivot = df.pivot_table(
-        index="Time_Slot",
-        columns="Day",
-        values="Course",
-        aggfunc="first"
-    )
-
-    st.dataframe(pivot)
 
 except Exception as e:
 
