@@ -12,16 +12,18 @@ try:
 
     st.subheader("Timetable")
 
+    st.dataframe(df)
+
     st.subheader("Search Faculty")
 
-faculty = st.selectbox(
-    "Select Faculty",
-    sorted(df["Faculty"].dropna().unique())
-)
+    faculty = st.selectbox(
+        "Select Faculty",
+        sorted(df["Faculty"].dropna().unique())
+    )
 
-faculty_data = df[df["Faculty"] == faculty]
+    faculty_data = df[df["Faculty"] == faculty]
 
-st.dataframe(faculty_data)
+    st.dataframe(faculty_data)
 
 except Exception as e:
     st.error(e)
