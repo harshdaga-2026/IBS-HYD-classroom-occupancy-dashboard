@@ -227,73 +227,70 @@ try:
     c3.metric(
         "Occupancy %",
         f"{occupancy_percent}%"
-    )
+    )     
     # ==================================================
-# BOOK ROOM
-# ==================================================
+    # BOOK ROOM
+    # ==================================================
 
-st.header("Book a Room")
+    st.header("Book a Room")
 
-with st.form("booking_form"):
+    with st.form("booking_form"):
 
-    requester = st.text_input("Your Name")
+        requester = st.text_input("Your Name")
+        email = st.text_input("Email")
+        event_name = st.text_input("Event Name")
 
-    email = st.text_input("Email")
+        booking_day = st.selectbox(
+            "Day",
+            sorted(df["Day"].dropna().unique())
+        )
 
-    event_name = st.text_input("Event Name")
+        booking_time = st.selectbox(
+            "Time Slot",
+            sorted(df["Time_Slot"].dropna().unique())
+        )
 
-    booking_day = st.selectbox(
-        "Day",
-        sorted(df["Day"].dropna().unique())
-    )
+        booking_room = st.selectbox(
+            "Room",
+            sorted(all_rooms)
+        )
 
-    booking_time = st.selectbox(
-        "Time Slot",
-        sorted(df["Time_Slot"].dropna().unique())
-    )
+        submit = st.form_submit_button("Submit Booking Request")
 
-    booking_room = st.selectbox(
-        "Room",
-        sorted(all_rooms)
-    )
+        if submit:
 
-    submit = st.form_submit_button("Submit Booking Request")
+            occupied_rooms = df[
+                (df["Day"] == booking_day)
+                &
+                (df["Time_Slot"] == booking_time)
+            ]["Room"].tolist()
 
-    if submit:
+            if booking_room in occupied_rooms:
 
-        occupied_rooms = df[
-            (df["Day"] == booking_day)
-            &
-            (df["Time_Slot"] == booking_time)
-        ]["Room"].tolist()
+                st.error(
+                    "Room already occupied by a class."
+                )
 
-        if booking_room in occupied_rooms:
+            else:
 
-            st.error(
-                "Room already occupied by a class."
-            )
+                request_id = len(sheet.get_all_records()) + 1
 
-        else:
+                sheet.append_row([
+                    request_id,
+                    "",
+                    booking_day,
+                    booking_time,
+                    booking_room,
+                    event_name,
+                    requester,
+                    email,
+                    "Pending"
+                ])
 
-            request_id = len(sheet.get_all_records()) + 1
-
-            sheet.append_row([
-                request_id,
-                "",
-                booking_day,
-                booking_time,
-                booking_room,
-                event_name,
-                requester,
-                email,
-                "Pending"
-            ])
-
-            st.success(
-                "Booking Request Submitted Successfully!"
-            )
-
-
+                st.success(
+                    "Booking Request Submitted Successfully!"
+                )
+    
             
 except Exception as e:
 
