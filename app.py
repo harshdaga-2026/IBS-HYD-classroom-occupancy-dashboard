@@ -303,16 +303,16 @@ try:
                 request_id = len(sheet.get_all_records()) + 1
 
                 sheet.append_row([
-                    request_id,
-                    "",
-                    booking_day,
-                    booking_time,
-                    booking_room,
-                    event_name,
-                    requester,
-                    email,
-                    "Pending"
-                ])
+                request_id,
+                str(date.today()),
+                booking_day,
+                booking_time,
+                booking_room,
+                event_name,
+                requester,
+                email,
+                "Pending"
+            ])
 
                 st.success(
                     "Booking Request Submitted Successfully!"
