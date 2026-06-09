@@ -1,0 +1,499 @@
+Day,Time_Slot,Room,Course,Faculty,Semester
+Monday,09:30 AM TO 10:45 AM,LT-B,SEM-B,Swapna Mandala,1
+Tuesday,09:30 AM TO 10:45 AM,LT-B,SEM-B,Swapna Mandala,1
+Wednesday,09:30 AM TO 10:45 AM,LT-B,ME-B,Aruna,1
+Thursday,09:30 AM TO 10:45 AM,LT-B,ME-B,Aruna,1
+Friday,09:30 AM TO 10:45 AM,LT-B,OB-B,Mendemu Showry,1
+Monday,09:30 AM TO 10:45 AM,LT-C,PEM-C,Sindhu,1
+Tuesday,09:30 AM TO 10:45 AM,LT-C,PEM-C,Sindhu,1
+Wednesday,09:30 AM TO 10:45 AM,LT-C,MIS-C,Shubhangi V,1
+Thursday,09:30 AM TO 10:45 AM,LT-C,MIS-C,Shubhangi V,1
+Friday,09:30 AM TO 10:45 AM,LT-C,AFM-C,Gattaiah Tadoori,1
+Monday,09:30 AM TO 10:45 AM,LT-D,OB-D,Mohd Abdul Nayeem,1
+Tuesday,09:30 AM TO 10:45 AM,LT-D,OB-D,Mohd Abdul Nayeem,1
+Wednesday,09:30 AM TO 10:45 AM,LT-D,MM1-D,Amar Raju,1
+Thursday,09:30 AM TO 10:45 AM,LT-D,MM1-D,Amar Raju,1
+Friday,09:30 AM TO 10:45 AM,LT-D,FM-D,Raghu Nadh,1
+Monday,09:30 AM TO 10:45 AM,LT-E,MM1-E,Mukesh Kumar Mishra,1
+Tuesday,09:30 AM TO 10:45 AM,LT-E,MM1-E,Mukesh Kumar Mishra,1
+Wednesday,09:30 AM TO 10:45 AM,LT-E,SEM-E,Neeharika Marisetti,1
+Thursday,09:30 AM TO 10:45 AM,LT-E,SEM-E,Neeharika Marisetti,1
+Friday,09:30 AM TO 10:45 AM,LT-E,OB-E,Kalaa Chenji,1
+Monday,09:30 AM TO 10:45 AM,LT-F,FM-F,Anita,1
+Tuesday,09:30 AM TO 10:45 AM,LT-F,FM-F,Anita,1
+Wednesday,09:30 AM TO 10:45 AM,LT-F,MIS-F,Vaibhav Mishra,1
+Thursday,09:30 AM TO 10:45 AM,LT-F,MIS-F,Vaibhav Mishra,1
+Friday,09:30 AM TO 10:45 AM,LT-F,MM1-F,Pankaj Kumar Singh,1
+Monday,09:30 AM TO 10:45 AM,LT-G,MIS-G,U Moulali,1
+Tuesday,09:30 AM TO 10:45 AM,LT-G,MIS-G,U Moulali,1
+Wednesday,09:30 AM TO 10:45 AM,LT-G,SEM-G,Gujju Siva Krishna,1
+Thursday,09:30 AM TO 10:45 AM,LT-G,SEM-G,Gujju Siva Krishna,1
+Friday,09:30 AM TO 10:45 AM,LT-G,PEM-G,Geethanjali,1
+Monday,09:30 AM TO 10:45 AM,LT-H,AFM-H,Erram Ramesh,1
+Tuesday,09:30 AM TO 10:45 AM,LT-H,AFM-H,Erram Ramesh,1
+Wednesday,09:30 AM TO 10:45 AM,LT-H,PEM-H,Mustakhushen,1
+Thursday,09:30 AM TO 10:45 AM,LT-H,PEM-H,Mustakhushen,1
+Friday,09:30 AM TO 10:45 AM,LT-H,BPI-C,Anusha Sreeram,3
+Monday,09:30 AM TO 10:45 AM,LT-I,OB-I,Ashok Kumar,1
+Tuesday,09:30 AM TO 10:45 AM,LT-I,OB-I,Ashok Kumar,1
+Wednesday,09:30 AM TO 10:45 AM,LT-I,PEM-I,Sindhu,1
+Thursday,09:30 AM TO 10:45 AM,LT-I,PEM-I,Sindhu,1
+Friday,09:30 AM TO 10:45 AM,LT-I,BPI-L,J PRINCE VIJAI,3
+Monday,09:30 AM TO 10:45 AM,LT-J,DS-J,K V S S N NARASIMHA MURTY,1
+Tuesday,09:30 AM TO 10:45 AM,LT-J,DS-J,K V S S N NARASIMHA MURTY,1
+Wednesday,09:30 AM TO 10:45 AM,LT-J,FM-J,Naseem Ahamed,1
+Thursday,09:30 AM TO 10:45 AM,LT-J,FM-J,Naseem Ahamed,1
+Friday,09:30 AM TO 10:45 AM,LT-J,ETDB-D,Siva Prasad,3
+Monday,09:30 AM TO 10:45 AM,LT-K,OB-K,Niraj Kishore,1
+Tuesday,09:30 AM TO 10:45 AM,LT-K,OB-K,Niraj Kishore,1
+Wednesday,09:30 AM TO 10:45 AM,LT-K,DS-K,VENKATA SIVA,1
+Thursday,09:30 AM TO 10:45 AM,LT-K,DS-K,VENKATA SIVA,1
+Friday,09:30 AM TO 10:45 AM,LT-K,PEM-M,G Haritha,1
+Monday,09:30 AM TO 10:45 AM,LT-L,FM-L,Bhanu Sireesha,1
+Tuesday,09:30 AM TO 10:45 AM,LT-L,FM-L,Bhanu Sireesha,1
+Wednesday,09:30 AM TO 10:45 AM,LT-L,OB-L,Pavan Kumar Balivada,1
+Thursday,09:30 AM TO 10:45 AM,LT-L,OB-L,Pavan Kumar Balivada,1
+Friday,09:30 AM TO 10:45 AM,LT-L,DS-N,Sumant Kumar Tewari,1
+Monday,09:30 AM TO 10:45 AM,CR-7,BS-D,Mithilesh Kumar Pandey,3
+Tuesday,09:30 AM TO 10:45 AM,CR-7,BS-D,Mithilesh Kumar Pandey,3
+Wednesday,09:30 AM TO 10:45 AM,CR-7,BPI-A,Dhobale Jaipal Vithalrao,3
+Thursday,09:30 AM TO 10:45 AM,CR-7,BPI-A,Dhobale Jaipal Vithalrao,3
+Friday,09:30 AM TO 10:45 AM,CR-7,B2B-A,Dwarakanath Siriguppi,3
+Monday,09:30 AM TO 10:45 AM,CR-8,BS-B,Purna Prabhakar,3
+Tuesday,09:30 AM TO 10:45 AM,CR-8,BS-B,Purna Prabhakar,3
+Wednesday,09:30 AM TO 10:45 AM,CR-8,BPI-B,Santosh Kumar Yadav,3
+Thursday,09:30 AM TO 10:45 AM,CR-8,BPI-B,Santosh Kumar Yadav,3
+Friday,09:30 AM TO 10:45 AM,CR-8,FFT-B,Abdul Rishad Kuttiprathodi,3
+Monday,09:30 AM TO 10:45 AM,CR-10,ETDB-I,Shahebaz Ahmed Khan,3
+Tuesday,09:30 AM TO 10:45 AM,CR-10,ETDB-I,Shahebaz Ahmed Khan,3
+Wednesday,09:30 AM TO 10:45 AM,CR-10,BS-F,Vijayudu,3
+Thursday,09:30 AM TO 10:45 AM,CR-10,BS-F,Vijayudu,3
+Friday,09:30 AM TO 10:45 AM,CR-10,BA-A,Maruthy Subrahmanyam,3
+Monday,09:30 AM TO 10:45 AM,CR-11,PMMF-B,Venkata Narasimha Chary,3
+Tuesday,09:30 AM TO 10:45 AM,CR-11,PMMF-B,Venkata Narasimha Chary,3
+Wednesday,09:30 AM TO 10:45 AM,CR-11,ETDB-N,A Sandeep,3
+Thursday,09:30 AM TO 10:45 AM,CR-11,ETDB-N,A Sandeep,3
+Friday,09:30 AM TO 10:45 AM,CR-11,MA-A,Pankaj Mohanty,3
+Monday,09:30 AM TO 10:45 AM,CR-1,FDRM-A,D M V Lakshmi,3
+Tuesday,09:30 AM TO 10:45 AM,CR-1,FDRM-A,D M V Lakshmi,3
+Wednesday,09:30 AM TO 10:45 AM,CR-1,FME-C,Kameshwar Rao,3
+Thursday,09:30 AM TO 10:45 AM,CR-1,FME-C,Kameshwar Rao,3
+Friday,09:30 AM TO 10:45 AM,CR-1,MR-A,Debajani Sahoo,3
+Monday,09:30 AM TO 10:45 AM,CR-2,GHRM-A,Naga Viswanatham,3
+Tuesday,09:30 AM TO 10:45 AM,CR-2,GHRM-A,Naga Viswanatham,3
+Wednesday,09:30 AM TO 10:45 AM,CR-2,FFT-A,Jyothi,3
+Thursday,09:30 AM TO 10:45 AM,CR-2,FFT-A,Jyothi,3
+Friday,09:30 AM TO 10:45 AM,CR-2,DM-B,Abhisek Dutta,3
+Monday,09:30 AM TO 10:45 AM,CR-3,PJM-B,Sayan Chakraborty,3
+Tuesday,09:30 AM TO 10:45 AM,CR-3,PJM-B,Sayan Chakraborty,3
+Wednesday,09:30 AM TO 10:45 AM,CR-3,B2B-B,Shailendra Singh,3
+Thursday,09:30 AM TO 10:45 AM,CR-3,B2B-B,Shailendra Singh,3
+Friday,09:30 AM TO 10:45 AM,CR-3,PJM-C,Nikhat Afshan,3
+Wednesday,09:30 AM TO 10:45 AM,CR-4,SM-C,Gaurav,3
+Thursday,09:30 AM TO 10:45 AM,CR-4,SM-C,Gaurav,3
+Monday,10:55 AM TO 12:10 PM,LT-B,AFM-B,Sakalya Sarma,1
+Tuesday,10:55 AM TO 12:10 PM,LT-B,AFM-B,Sakalya Sarma,1
+Wednesday,10:55 AM TO 12:10 PM,LT-B,OB-B,Mendemu Showry,1
+Thursday,10:55 AM TO 12:10 PM,LT-B,PEM-B,Geethanjali,1
+Friday,10:55 AM TO 12:10 PM,LT-B,MM1-I,Gaurav,1
+Monday,10:55 AM TO 12:10 PM,LT-C,SEM-C,Saravanan,1
+Tuesday,10:55 AM TO 12:10 PM,LT-C,SEM-C,Saravanan,1
+Wednesday,10:55 AM TO 12:10 PM,LT-C,AFM-C,Gattaiah Tadoori,1
+Thursday,10:55 AM TO 12:10 PM,LT-C,ME-C,Aruna Kumar Dash,1
+Friday,10:55 AM TO 12:10 PM,LT-C,AFM-J,Harsh Raj Pathak,1
+Monday,10:55 AM TO 12:10 PM,LT-D,MIS-D,Nanda Gopal Reddy,1
+Tuesday,10:55 AM TO 12:10 PM,LT-D,MIS-D,Nanda Gopal Reddy,1
+Wednesday,10:55 AM TO 12:10 PM,LT-D,FM-D,Raghu Nadh,1
+Thursday,10:55 AM TO 12:10 PM,LT-D,DS-D,Sumant Kumar Tewari,1
+Friday,10:55 AM TO 12:10 PM,LT-D,MM1-K,Amar Raju,1
+Monday,10:55 AM TO 12:10 PM,LT-E,ME-E,Padmavathi V,1
+Tuesday,10:55 AM TO 12:10 PM,LT-E,ME-E,Padmavathi V,1
+Wednesday,10:55 AM TO 12:10 PM,LT-E,OB-E,Kalaa Chenji,1
+Thursday,10:55 AM TO 12:10 PM,LT-E,AFM-E,Harsh Raj Pathak,1
+Friday,10:55 AM TO 12:10 PM,LT-E,AFM-L,Gattaiah Tadoori,1
+Monday,10:55 AM TO 12:10 PM,LT-F,AFM-F,Rajya Lakshmi,1
+Tuesday,10:55 AM TO 12:10 PM,LT-F,AFM-F,Rajya Lakshmi,1
+Wednesday,10:55 AM TO 12:10 PM,LT-F,MM1-F,Pankaj Kumar Singh,1
+Thursday,10:55 AM TO 12:10 PM,LT-F,OB-F,Kalaa Chenji,1
+Friday,10:55 AM TO 12:10 PM,LT-F,MIS-M,Vaibhav Mishra,1
+Monday,10:55 AM TO 12:10 PM,LT-G,FM-G,Nitya Nand,1
+Tuesday,10:55 AM TO 12:10 PM,LT-G,FM-G,Nitya Nand,1
+Wednesday,10:55 AM TO 12:10 PM,LT-G,PEM-G,Geethanjali,1
+Thursday,10:55 AM TO 12:10 PM,LT-G,MM1-G,Abhisek Dutta,1
+Friday,10:55 AM TO 12:10 PM,LT-G,ME-N,Perini Praveena Sri,1
+Monday,10:55 AM TO 12:10 PM,LT-H,BS-J,Sudeepta,3
+Tuesday,10:55 AM TO 12:10 PM,LT-H,BS-J,Sudeepta,3
+Wednesday,10:55 AM TO 12:10 PM,LT-H,BPI-C,Anusha Sreeram,3
+Thursday,10:55 AM TO 12:10 PM,LT-H,BPI-G,Anusha Sreeram,3
+Friday,10:55 AM TO 12:10 PM,LT-H,MIS-E,Shubhangi V,1
+Monday,10:55 AM TO 12:10 PM,LT-I,SDM-B,Chakravarthi,3
+Tuesday,10:55 AM TO 12:10 PM,LT-I,SDM-B,Chakravarthi,3
+Wednesday,10:55 AM TO 12:10 PM,LT-I,BPI-L,J PRINCE VIJAI,3
+Thursday,10:55 AM TO 12:10 PM,LT-I,BPI-H,J PRINCE VIJAI,3
+Friday,10:55 AM TO 12:10 PM,LT-I,ME-F,Aruna,1
+Monday,10:55 AM TO 12:10 PM,LT-J,GCM-B,Satish D,3
+Tuesday,10:55 AM TO 12:10 PM,LT-J,GCM-B,Satish D,3
+Wednesday,10:55 AM TO 12:10 PM,LT-J,ETDB-D,Siva Prasad,3
+Thursday,10:55 AM TO 12:10 PM,LT-J,ETDB-C,Siva Prasad,3
+Friday,10:55 AM TO 12:10 PM,LT-J,ME-G,Subhendu Dutta,1
+Monday,10:55 AM TO 12:10 PM,LT-K,OB-M,Rama Swathi,1
+Tuesday,10:55 AM TO 12:10 PM,LT-K,OB-M,Rama Swathi,1
+Wednesday,10:55 AM TO 12:10 PM,LT-K,PEM-M,G Haritha,1
+Thursday,10:55 AM TO 12:10 PM,LT-K,MM1-M,Pankaj Kumar Singh,1
+Friday,10:55 AM TO 12:10 PM,LT-K,BPI-I,Dhobale Jaipal Vithalrao,3
+Monday,10:55 AM TO 12:10 PM,LT-L,FM-N,Narender Miryala,1
+Tuesday,10:55 AM TO 12:10 PM,LT-L,FM-N,Narender Miryala,1
+Wednesday,10:55 AM TO 12:10 PM,LT-L,DS-N,Sumant Kumar Tewari,1
+Thursday,10:55 AM TO 12:10 PM,LT-L,SEM-N,K Anuradha,1
+Friday,10:55 AM TO 12:10 PM,LT-L,BPI-J,Santosh Kumar Yadav,3
+Monday,10:55 AM TO 12:10 PM,CR-7,BDM-B,Anitha Acharya,3
+Tuesday,10:55 AM TO 12:10 PM,CR-7,BDM-B,Anitha Acharya,3
+Wednesday,10:55 AM TO 12:10 PM,CR-7,B2B-A,Dwarakanath Siriguppi,3
+Thursday,10:55 AM TO 12:10 PM,CR-7,IVB-B,Rajneesh Ranjan Jha,3
+Friday,10:55 AM TO 12:10 PM,CR-7,BS-A,Sriram Soundararajan,3
+Monday,10:55 AM TO 12:10 PM,CR-8,ETDB-K,A Sandeep,3
+Tuesday,10:55 AM TO 12:10 PM,CR-8,ETDB-K,A Sandeep,3
+Wednesday,10:55 AM TO 12:10 PM,CR-8,FFT-B,Abdul Rishad Kuttiprathodi,3
+Thursday,10:55 AM TO 12:10 PM,CR-8,ETDB-L,Jyoti Rajan Hota,3
+Friday,10:55 AM TO 12:10 PM,CR-8,BIA-A,Bijeta Shaw,3
+Monday,10:55 AM TO 12:10 PM,CR-10,CMA-A,Bhaskara Rao,3
+Tuesday,10:55 AM TO 12:10 PM,CR-10,CMA-A,Bhaskara Rao,3
+Wednesday,10:55 AM TO 12:10 PM,CR-10,BA-A,Maruthy Subrahmanyam,3
+Thursday,10:55 AM TO 12:10 PM,CR-10,DM-A,Vaibhav,3
+Friday,10:55 AM TO 12:10 PM,CR-10,SCM-A,Nikhat Afshan,3
+Monday,10:55 AM TO 12:10 PM,CR-11,FFT-C,RICHA,3
+Tuesday,10:55 AM TO 12:10 PM,CR-11,FFT-C,RICHA,3
+Wednesday,10:55 AM TO 12:10 PM,CR-11,MA-A,Pankaj Mohanty,3
+Thursday,10:55 AM TO 12:10 PM,CR-11,PJM-A,Manish Kumar,3
+Monday,10:55 AM TO 12:10 PM,CR-1,SCM-D,R S Chalapathi,3
+Tuesday,10:55 AM TO 12:10 PM,CR-1,SCM-D,R S Chalapathi,3
+Wednesday,10:55 AM TO 12:10 PM,CR-1,MR-A,Debajani Sahoo,3
+Thursday,10:55 AM TO 12:10 PM,CR-1,ERLC-A,Mendemu Showry,3
+Friday,10:55 AM TO 12:10 PM,CR-1,SM-D,Vijayudu,3
+Monday,10:55 AM TO 12:10 PM,CR-2,SA-A,Satish Kumar,3
+Tuesday,10:55 AM TO 12:10 PM,CR-2,SA-A,Satish Kumar,3
+Wednesday,10:55 AM TO 12:10 PM,CR-2,DM-B,Abhisek Dutta,3
+Thursday,10:55 AM TO 12:10 PM,CR-2,WM-B,Raghu Nadh,3
+Monday,10:55 AM TO 12:10 PM,CR-3,WM-A,Sita Ramaiah,3
+Tuesday,10:55 AM TO 12:10 PM,CR-3,WM-A,Sita Ramaiah,3
+Wednesday,10:55 AM TO 12:10 PM,CR-3,PJM-C,Nikhat Afshan,3
+Thursday,10:55 AM TO 12:10 PM,CR-3,FME-A,Sager,3
+Friday,10:55 AM TO 12:10 PM,CR-3,MPB-A,Shailendra Singh,3
+Monday,10:55 AM TO 12:10 PM,CR-4,IMC-A,Achyut Kiran Telang,3
+Tuesday,10:55 AM TO 12:10 PM,CR-4,IMC-A,Achyut Kiran Telang,3
+Monday,12:20 PM TO 01:35 PM,LT-B,ETDB-M,Shahebaz Ahmed Khan,3
+Tuesday,12:20 PM TO 01:35 PM,LT-B,ETDB-M,Shahebaz Ahmed Khan,3
+Wednesday,12:20 PM TO 01:35 PM,LT-B,BPI-F,Santosh Kumar Yadav,3
+Thursday,12:20 PM TO 01:35 PM,LT-B,BPI-F,Santosh Kumar Yadav,3
+Monday,12:20 PM TO 01:35 PM,LT-C,BS-L,Sweta Singh,3
+Tuesday,12:20 PM TO 01:35 PM,LT-C,BS-L,Sweta Singh,3
+Wednesday,12:20 PM TO 01:35 PM,LT-C,BS-M,Vijayudu,3
+Thursday,12:20 PM TO 01:35 PM,LT-C,BS-M,Vijayudu,3
+Monday,12:20 PM TO 01:35 PM,LT-D,CRM-A,Vikas Gautam,3
+Tuesday,12:20 PM TO 01:35 PM,LT-D,CRM-A,Vikas Gautam,3
+Wednesday,12:20 PM TO 01:35 PM,LT-D,ETDB-A,K Anuradha,3
+Thursday,12:20 PM TO 01:35 PM,LT-D,ETDB-A,K Anuradha,3
+Monday,12:20 PM TO 01:35 PM,LT-E,SCM-B,Sayan Chakraborty,3
+Tuesday,12:20 PM TO 01:35 PM,LT-E,SCM-B,Sayan Chakraborty,3
+Wednesday,12:20 PM TO 01:35 PM,LT-E,BS-H,Sriram Soundararajan,3
+Thursday,12:20 PM TO 01:35 PM,LT-E,BS-H,Sriram Soundararajan,3
+Monday,12:20 PM TO 01:35 PM,LT-F,FM-H,SREENIVASACHARY,1
+Tuesday,12:20 PM TO 01:35 PM,LT-F,FM-H,SREENIVASACHARY,1
+Wednesday,12:20 PM TO 01:35 PM,LT-F,MIS-H,Shubhangi V,1
+Thursday,12:20 PM TO 01:35 PM,LT-F,MIS-H,Shubhangi V,1
+Monday,12:20 PM TO 01:35 PM,LT-G,AFM-I,Narsagoud,1
+Tuesday,12:20 PM TO 01:35 PM,LT-G,AFM-I,Narsagoud,1
+Wednesday,12:20 PM TO 01:35 PM,LT-G,MIS-I,Vaibhav Mishra,1
+Thursday,12:20 PM TO 01:35 PM,LT-G,MIS-I,Vaibhav Mishra,1
+Monday,12:20 PM TO 01:35 PM,LT-H,MM1-J,Madhavi,1
+Tuesday,12:20 PM TO 01:35 PM,LT-H,MM1-J,Madhavi,1
+Wednesday,12:20 PM TO 01:35 PM,LT-H,ME-J,Laila Memdani,1
+Thursday,12:20 PM TO 01:35 PM,LT-H,ME-J,Laila Memdani,1
+Monday,12:20 PM TO 01:35 PM,LT-I,ME-K,Rama Sesha Sarma,1
+Tuesday,12:20 PM TO 01:35 PM,LT-I,ME-K,Rama Sesha Sarma,1
+Wednesday,12:20 PM TO 01:35 PM,LT-I,SEM-K,Gujju Siva Krishna,
+Thursday,12:20 PM TO 01:35 PM,LT-I,SEM-K,Gujju Siva Krishna,1
+Monday,12:20 PM TO 01:35 PM,LT-J,MM1-L,Mukesh Kumar Mishra,1
+Tuesday,12:20 PM TO 01:35 PM,LT-J,MM1-L,Mukesh Kumar Mishra,1
+Wednesday,12:20 PM TO 01:35 PM,LT-J,SEM-L,Bholenath Thakur,1
+Thursday,12:20 PM TO 01:35 PM,LT-J,SEM-L,Bholenath Thakur,1
+Monday,12:20 PM TO 01:35 PM,LT-K,FM-M,Anita,1
+Tuesday,12:20 PM TO 01:35 PM,LT-K,FM-M,Anita,1
+Wednesday,12:20 PM TO 01:35 PM,LT-K,DS-M,Ramesh Kandela,1
+Thursday,12:20 PM TO 01:35 PM,LT-K,DS-M,Ramesh Kandela,1
+Monday,12:20 PM TO 01:35 PM,LT-L,MIS-N,U Moulali,1
+Tuesday,12:20 PM TO 01:35 PM,LT-L,MIS-N,U Moulali,1
+Wednesday,12:20 PM TO 01:35 PM,LT-L,MM1-N,Gaurav,1
+Thursday,12:20 PM TO 01:35 PM,LT-L,MM1-N,Gaurav,1
+Monday,12:20 PM TO 01:35 PM,CR-7,BMS-A,K V S S N NARASIMHA MURTY,3
+Tuesday,12:20 PM TO 01:35 PM,CR-7,BMS-A,K V S S N NARASIMHA MURTY,3
+Monday,12:20 PM TO 01:35 PM,CR-8,HRP-A,Niraj Kishore,3
+Tuesday,12:20 PM TO 01:35 PM,CR-8,HRP-A,Niraj Kishore,3
+Wednesday,12:20 PM TO 01:35 PM,CR-8,MA-B,Rashmita,3
+Thursday,12:20 PM TO 01:35 PM,CR-8,MA-B,Rashmita,3
+Monday,12:20 PM TO 01:35 PM,CR-10,FSA-B,Pavana Jyothi,3
+Tuesday,12:20 PM TO 01:35 PM,CR-10,FSA-B,Pavana Jyothi,3
+Wednesday,12:20 PM TO 01:35 PM,CR-10,SA-B,Srikanth,3
+Thursday,12:20 PM TO 01:35 PM,CR-10,SA-B,Srikanth,3
+Monday,12:20 PM TO 01:35 PM,CR-11,IVB-C,Talapalli Sandhya,3
+Tuesday,12:20 PM TO 01:35 PM,CR-11,IVB-C,Talapalli Sandhya,3
+Monday,12:20 PM TO 01:35 PM,CR-1,FDRM-D,D M V Lakshmi,3
+Tuesday,12:20 PM TO 01:35 PM,CR-1,FDRM-D,D M V Lakshmi,3
+Wednesday,12:20 PM TO 01:35 PM,CR-1,SM-A,Amar Raju,3
+Thursday,12:20 PM TO 01:35 PM,CR-1,SM-A,Amar Raju,3
+Wednesday,12:20 PM TO 01:35 PM,CR-3,MDT-A,Shailendra Singh,3
+Thursday,12:20 PM TO 01:35 PM,CR-3,MDT-A,Shailendra Singh,3
+Monday,01:45 PM TO 03:00 PM,LT-B,BS-I,Purna Prabhakar,3
+Tuesday,01:45 PM TO 03:00 PM,LT-B,BS-I,Purna Prabhakar,3
+Wednesday,01:45 PM TO 03:00 PM,LT-B,BPI-K,Anusha Sreeram,3
+Thursday,01:45 PM TO 03:00 PM,LT-B,BPI-K,Anusha Sreeram,3
+Friday,01:45 PM TO 03:00 PM,LT-B,PEM-B,Geethanjali,1
+Monday,01:45 PM TO 03:00 PM,LT-C,ETDB-F,A Sandeep,3
+Tuesday,01:45 PM TO 03:00 PM,LT-C,ETDB-F,A Sandeep,3
+Wednesday,01:45 PM TO 03:00 PM,LT-C,GCM-A,Abdul Rishad Kuttiprathodi,3
+Thursday,01:45 PM TO 03:00 PM,LT-C,GCM-A,Abdul Rishad Kuttiprathodi,3
+Friday,01:45 PM TO 03:00 PM,LT-C,ME-C,Aruna Kumar Dash,1
+Monday,01:45 PM TO 03:00 PM,LT-D,AFM-A,Erram Ramesh,1
+Tuesday,01:45 PM TO 03:00 PM,LT-D,AFM-A,Erram Ramesh,1
+Wednesday,01:45 PM TO 03:00 PM,LT-D,OB-A,Rama Swathi,1
+Thursday,01:45 PM TO 03:00 PM,LT-D,OB-A,Rama Swathi,1
+Friday,01:45 PM TO 03:00 PM,LT-D,DS-D,Sumant Kumar Tewari,1
+Monday,01:45 PM TO 03:00 PM,LT-E,MIS-B,Nanda Gopal Reddy,1
+Tuesday,01:45 PM TO 03:00 PM,LT-E,MIS-B,Nanda Gopal Reddy,1
+Wednesday,01:45 PM TO 03:00 PM,LT-E,MM1-B,Debajani Sahoo,1
+Thursday,01:45 PM TO 03:00 PM,LT-E,MM1-B,Debajani Sahoo,1
+Friday,01:45 PM TO 03:00 PM,LT-E,AFM-E,Harsh Raj Pathak,1
+Monday,01:45 PM TO 03:00 PM,LT-F,OB-C,Naga Viswanatham,1
+Tuesday,01:45 PM TO 03:00 PM,LT-F,OB-C,Naga Viswanatham,1
+Wednesday,01:45 PM TO 03:00 PM,LT-F,FM-C,Jyothi,1
+Thursday,01:45 PM TO 03:00 PM,LT-F,FM-C,Jyothi,1
+Friday,01:45 PM TO 03:00 PM,LT-F,OB-F,Kalaa Chenji,1
+Monday,01:45 PM TO 03:00 PM,LT-G,AFM-D,Sakalya Sarma,1
+Tuesday,01:45 PM TO 03:00 PM,LT-G,AFM-D,Sakalya Sarma,1
+Wednesday,01:45 PM TO 03:00 PM,LT-G,PEM-D,G Haritha,1
+Thursday,01:45 PM TO 03:00 PM,LT-G,PEM-D,G Haritha,1
+Friday,01:45 PM TO 03:00 PM,LT-G,MM1-G,Abhisek Dutta,1
+Monday,01:45 PM TO 03:00 PM,LT-H,FM-E,Bhanu Sireesha,1
+Tuesday,01:45 PM TO 03:00 PM,LT-H,FM-E,Bhanu Sireesha,1
+Wednesday,01:45 PM TO 03:00 PM,LT-H,PEM-E,Mustakhushen,1
+Thursday,01:45 PM TO 03:00 PM,LT-H,PEM-E,Mustakhushen,1
+Friday,01:45 PM TO 03:00 PM,LT-H,BPI-G,Anusha Sreeram,3
+Monday,01:45 PM TO 03:00 PM,LT-I,SEM-F,Gujju Siva Krishna,1
+Tuesday,01:45 PM TO 03:00 PM,LT-I,SEM-F,Gujju Siva Krishna,1
+Wednesday,01:45 PM TO 03:00 PM,LT-I,DS-F,VENKATA SIVA,1
+Thursday,01:45 PM TO 03:00 PM,LT-I,DS-F,VENKATA SIVA,1
+Friday,01:45 PM TO 03:00 PM,LT-I,BPI-H,J PRINCE VIJAI,3
+Monday,01:45 PM TO 03:00 PM,LT-J,AFM-G,RICHA,1
+Tuesday,01:45 PM TO 03:00 PM,LT-J,AFM-G,RICHA,1
+Wednesday,01:45 PM TO 03:00 PM,LT-J,DS-G,Shubhagata Roy,1
+Thursday,01:45 PM TO 03:00 PM,LT-J,DS-G,Shubhagata Roy,1
+Friday,01:45 PM TO 03:00 PM,LT-J,ETDB-C,Siva Prasad,3
+Monday,01:45 PM TO 03:00 PM,LT-K,TAR-A,Mohd Abdul Nayeem,3
+Tuesday,01:45 PM TO 03:00 PM,LT-K,TAR-A,Mohd Abdul Nayeem,3
+Wednesday,01:45 PM TO 03:00 PM,LT-K,SCM-C,Manish Kumar,3
+Thursday,01:45 PM TO 03:00 PM,LT-K,SCM-C,Manish Kumar,3
+Friday,01:45 PM TO 03:00 PM,LT-K,MM1-M,Pankaj Kumar Singh,1
+Monday,01:45 PM TO 03:00 PM,LT-L,FDRM-B,Narender Miryala,3
+Tuesday,01:45 PM TO 03:00 PM,LT-L,FDRM-B,Narender Miryala,3
+Wednesday,01:45 PM TO 03:00 PM,LT-L,CRAS-A,Rajneesh Ranjan Jha,3
+Thursday,01:45 PM TO 03:00 PM,LT-L,CRAS-A,Rajneesh Ranjan Jha,3
+Friday,01:45 PM TO 03:00 PM,LT-L,SEM-N,K Anuradha,1
+Monday,01:45 PM TO 03:00 PM,CR-7,PDM-B,Nishchala Sripathi,3
+Tuesday,01:45 PM TO 03:00 PM,CR-7,PDM-B,Nishchala Sripathi,3
+Wednesday,01:45 PM TO 03:00 PM,CR-7,EB-A,Kalaa Chenji,3
+Thursday,01:45 PM TO 03:00 PM,CR-7,EB-A,Kalaa Chenji,3
+Friday,01:45 PM TO 03:00 PM,CR-7,IVB-B,Rajneesh Ranjan Jha,3
+Monday,01:45 PM TO 03:00 PM,CR-8,SA-C,Satish Kumar,3
+Tuesday,01:45 PM TO 03:00 PM,CR-8,SA-C,Satish Kumar,3
+Wednesday,01:45 PM TO 03:00 PM,CR-8,B2B-C,Dwarakanath Siriguppi,3
+Thursday,01:45 PM TO 03:00 PM,CR-8,B2B-C,Dwarakanath Siriguppi,3
+Friday,01:45 PM TO 03:00 PM,CR-8,ETDB-L,Jyoti Rajan Hota,3
+Monday,01:45 PM TO 03:00 PM,CR-10,FSA-A,Sita Ramaiah,3
+Tuesday,01:45 PM TO 03:00 PM,CR-10,FSA-A,Sita Ramaiah,3
+Wednesday,01:45 PM TO 03:00 PM,CR-10,FME-B,Naseem Ahamed,3
+Thursday,01:45 PM TO 03:00 PM,CR-10,FME-B,Naseem Ahamed,3
+Friday,01:45 PM TO 03:00 PM,CR-10,DM-A,Vaibhav,3
+Monday,01:45 PM TO 03:00 PM,CR-11,SM-B,Achyut Kiran Telang,3
+Tuesday,01:45 PM TO 03:00 PM,CR-11,SM-B,Achyut Kiran Telang,3
+Wednesday,01:45 PM TO 03:00 PM,CR-11,HRA-A,Pavan Kumar Balivada,3
+Thursday,01:45 PM TO 03:00 PM,CR-11,HRA-A,Pavan Kumar Balivada,3
+Friday,01:45 PM TO 03:00 PM,CR-11,PJM-A,Manish Kumar,3
+Monday,01:45 PM TO 03:00 PM,CR-1,BDM-D,Anitha Acharya,3
+Tuesday,01:45 PM TO 03:00 PM,CR-1,BDM-D,Anitha Acharya,3
+Friday,01:45 PM TO 03:00 PM,CR-1,ERLC-A,Mendemu Showry,3
+Monday,01:45 PM TO 03:00 PM,CR-2,PJM-D,R S Chalapathi,3
+Tuesday,01:45 PM TO 03:00 PM,CR-2,PJM-D,R S Chalapathi,3
+Friday,01:45 PM TO 03:00 PM,CR-2,WM-B,Raghu Nadh,3
+Friday,01:45 PM TO 03:00 PM,CR-3,FME-A,Sager,3
+Monday,03:10 PM TO 04:25 PM,LT-B,SEM-I,Swapna Mandala,1
+Tuesday,03:10 PM TO 04:25 PM,LT-B,SEM-I,Swapna Mandala,1
+Wednesday,03:10 PM TO 04:25 PM,LT-B,MM1-I,Gaurav,1
+Thursday,03:10 PM TO 04:25 PM,LT-B,ME-I,Perini Praveena Sri,1
+Friday,03:10 PM TO 04:25 PM,LT-B,ME-I,Perini Praveena Sri,1
+Monday,03:10 PM TO 04:25 PM,LT-C,SEM-J,Saravanan,1
+Tuesday,03:10 PM TO 04:25 PM,LT-C,SEM-J,Saravanan,1
+Wednesday,03:10 PM TO 04:25 PM,LT-C,AFM-J,Harsh Raj Pathak,1
+Thursday,03:10 PM TO 04:25 PM,LT-C,MIS-J,Vaibhav Mishra,1
+Friday,03:10 PM TO 04:25 PM,LT-C,MIS-J,Vaibhav Mishra,1
+Monday,03:10 PM TO 04:25 PM,LT-D,MIS-K,Nanda Gopal Reddy,1
+Tuesday,03:10 PM TO 04:25 PM,LT-D,MIS-K,Nanda Gopal Reddy,1
+Wednesday,03:10 PM TO 04:25 PM,LT-D,MM1-K,Amar Raju,1
+Thursday,03:10 PM TO 04:25 PM,LT-D,FM-K,Sager,1
+Friday,03:10 PM TO 04:25 PM,LT-D,FM-K,Sager,1
+Monday,03:10 PM TO 04:25 PM,LT-E,DS-L,Shubhagata Roy,1
+Tuesday,03:10 PM TO 04:25 PM,LT-E,DS-L,Shubhagata Roy,1
+Wednesday,03:10 PM TO 04:25 PM,LT-E,AFM-L,Gattaiah Tadoori,1
+Thursday,03:10 PM TO 04:25 PM,LT-E,MIS-L,Shubhangi V,1
+Friday,03:10 PM TO 04:25 PM,LT-E,MIS-L,Shubhangi V,1
+Monday,03:10 PM TO 04:25 PM,LT-F,AFM-M,Rajya Lakshmi,1
+Tuesday,03:10 PM TO 04:25 PM,LT-F,AFM-M,Rajya Lakshmi,1
+Wednesday,03:10 PM TO 04:25 PM,LT-F,MIS-M,Vaibhav Mishra,1
+Thursday,03:10 PM TO 04:25 PM,LT-F,BS-G,Venu Gopal Rao,3
+Friday,03:10 PM TO 04:25 PM,LT-F,BS-G,Venu Gopal Rao,3
+Monday,03:10 PM TO 04:25 PM,LT-G,PEM-N,Sindhu,1
+Tuesday,03:10 PM TO 04:25 PM,LT-G,PEM-N,Sindhu,1
+Wednesday,03:10 PM TO 04:25 PM,LT-G,ME-N,Perini Praveena Sri,1
+Thursday,03:10 PM TO 04:25 PM,LT-G,BPI-M,Dhobale Jaipal Vithalrao,3
+Friday,03:10 PM TO 04:25 PM,LT-G,BPI-M,Dhobale Jaipal Vithalrao,3
+Monday,03:10 PM TO 04:25 PM,LT-H,DS-E,P Raj Reddy,1
+Tuesday,03:10 PM TO 04:25 PM,LT-H,DS-E,P Raj Reddy,1
+Wednesday,03:10 PM TO 04:25 PM,LT-H,MIS-E,Shubhangi V,1
+Thursday,03:10 PM TO 04:25 PM,LT-H,BPI-N,Santosh Kumar Yadav,3
+Friday,03:10 PM TO 04:25 PM,LT-H,BPI-N,Santosh Kumar Yadav,3
+Monday,03:10 PM TO 04:25 PM,LT-I,PEM-F,Mahesh Kumar,1
+Tuesday,03:10 PM TO 04:25 PM,LT-I,PEM-F,Mahesh Kumar,1
+Wednesday,03:10 PM TO 04:25 PM,LT-I,ME-F,Aruna,1
+Thursday,03:10 PM TO 04:25 PM,LT-I,ETDB-J,Jyoti Rajan Hota,3
+Friday,03:10 PM TO 04:25 PM,LT-I,ETDB-J,Jyoti Rajan Hota,3
+Monday,03:10 PM TO 04:25 PM,LT-J,OB-G,Prerna,1
+Tuesday,03:10 PM TO 04:25 PM,LT-J,OB-G,Prerna,1
+Wednesday,03:10 PM TO 04:25 PM,LT-J,ME-G,Subhendu Dutta,1
+Thursday,03:10 PM TO 04:25 PM,LT-J,BDM-C,Mandakini Paruthi,3
+Friday,03:10 PM TO 04:25 PM,LT-J,BDM-C,Mandakini Paruthi,3
+Monday,03:10 PM TO 04:25 PM,LT-K,SDM-A,Mukesh Kumar Mishra,3
+Tuesday,03:10 PM TO 04:25 PM,LT-K,SDM-A,Mukesh Kumar Mishra,3
+Wednesday,03:10 PM TO 04:25 PM,LT-K,BPI-I,Dhobale Jaipal Vithalrao,3
+Thursday,03:10 PM TO 04:25 PM,LT-K,CRM-B,Kavita Sasidharan Kulkarni,3
+Friday,03:10 PM TO 04:25 PM,LT-K,CRM-B,Kavita Sasidharan Kulkarni,3
+Monday,03:10 PM TO 04:25 PM,LT-L,BS-E,Sweta Singh,3
+Tuesday,03:10 PM TO 04:25 PM,LT-L,BS-E,Sweta Singh,3
+Wednesday,03:10 PM TO 04:25 PM,LT-L,BPI-J,Santosh Kumar Yadav,3
+Monday,03:10 PM TO 04:25 PM,CR-7,ETDB-H,Shahebaz Ahmed Khan,3
+Tuesday,03:10 PM TO 04:25 PM,CR-7,ETDB-H,Shahebaz Ahmed Khan,3
+Wednesday,03:10 PM TO 04:25 PM,CR-7,BS-A,Sriram Soundararajan,3
+Thursday,03:10 PM TO 04:25 PM,CR-7,PDM-A,Pankaj Mohanty,3
+Friday,03:10 PM TO 04:25 PM,CR-7,PDM-A,Pankaj Mohanty,3
+Monday,03:10 PM TO 04:25 PM,CR-8,BS-C,Sudeepta,3
+Tuesday,03:10 PM TO 04:25 PM,CR-8,BS-C,Sudeepta,3
+Wednesday,03:10 PM TO 04:25 PM,CR-8,BIA-A,Bijeta Shaw,3
+Thursday,03:10 PM TO 04:25 PM,CR-8,AI-A,Bijeta Shaw,3
+Friday,03:10 PM TO 04:25 PM,CR-8,AI-A,Bijeta Shaw,3
+Monday,03:10 PM TO 04:25 PM,CR-10,SOM-A,Sayan Chakraborty,3
+Tuesday,03:10 PM TO 04:25 PM,CR-10,SOM-A,Sayan Chakraborty,3
+Wednesday,03:10 PM TO 04:25 PM,CR-10,SCM-A,Nikhat Afshan,3
+Thursday,03:10 PM TO 04:25 PM,CR-10,HRA-B,VENKATA NAGA MANJULA,3
+Friday,03:10 PM TO 04:25 PM,CR-10,HRA-B,VENKATA NAGA MANJULA,3
+Monday,03:10 PM TO 04:25 PM,CR-11,TAD-A,Radha Mohan,3
+Tuesday,03:10 PM TO 04:25 PM,CR-11,TAD-A,Radha Mohan,3
+Monday,03:10 PM TO 04:25 PM,CR-1,CB-A,Vikas Gautam,3
+Tuesday,03:10 PM TO 04:25 PM,CR-1,CB-A,Vikas Gautam,3
+Wednesday,03:10 PM TO 04:25 PM,CR-1,SM-D,Vijayudu,3
+Monday,03:10 PM TO 04:25 PM,CR-2,PMMF-A,Venkata Narasimha Chary,3
+Tuesday,03:10 PM TO 04:25 PM,CR-2,PMMF-A,Venkata Narasimha Chary,3
+Monday,03:10 PM TO 04:25 PM,CR-3,FDRM-C,Daman Jeet,3
+Tuesday,03:10 PM TO 04:25 PM,CR-3,FDRM-C,Daman Jeet,3
+Wednesday,03:10 PM TO 04:25 PM,CR-3,MPB-A,Shailendra Singh,3
+Thursday,03:10 PM TO 04:25 PM,CR-3,MPB-B,Shailendra Singh,3
+Friday,03:10 PM TO 04:25 PM,CR-3,MPB-B,Shailendra Singh,3
+Monday,03:10 PM TO 04:25 PM,CR-4,BM-A,SREENIVASACHARY,3
+Tuesday,03:10 PM TO 04:25 PM,CR-4,BM-A,SREENIVASACHARY,3
+Monday,04:35 PM TO 05:50 PM,LT-B,FM-I,Talapalli Sandhya,1
+Tuesday,04:35 PM TO 05:50 PM,LT-B,FM-I,Talapalli Sandhya,1
+Wednesday,04:35 PM TO 05:50 PM,LT-B,DS-I,Sumant Kumar Tewari,1
+Thursday,04:35 PM TO 05:50 PM,LT-B,DS-I,Sumant Kumar Tewari,1
+Monday,04:35 PM TO 05:50 PM,LT-C,OB-J,Naga Viswanatham,1
+Tuesday,04:35 PM TO 05:50 PM,LT-C,OB-J,Naga Viswanatham,1
+Wednesday,04:35 PM TO 05:50 PM,LT-C,PEM-J,Mustakhushen,1
+Thursday,04:35 PM TO 05:50 PM,LT-C,PEM-J,Mustakhushen,1
+Monday,04:35 PM TO 05:50 PM,LT-D,AFM-K,Narsagoud,1
+Tuesday,04:35 PM TO 05:50 PM,LT-D,AFM-K,Narsagoud,1
+Wednesday,04:35 PM TO 05:50 PM,LT-D,PEM-K,Geethanjali,1
+Thursday,04:35 PM TO 05:50 PM,LT-D,PEM-K,Geethanjali,1
+Monday,04:35 PM TO 05:50 PM,LT-E,ME-L,Padmavathi V,1
+Tuesday,04:35 PM TO 05:50 PM,LT-E,ME-L,Padmavathi V,1
+Wednesday,04:35 PM TO 05:50 PM,LT-E,PEM-L,G Haritha,1
+Thursday,04:35 PM TO 05:50 PM,LT-E,PEM-L,G Haritha,1
+Monday,04:35 PM TO 05:50 PM,LT-F,SEM-M,Gujju Siva Krishna,1
+Tuesday,04:35 PM TO 05:50 PM,LT-F,SEM-M,Gujju Siva Krishna,1
+Wednesday,04:35 PM TO 05:50 PM,LT-F,ME-M,Aruna Kumar Dash,1
+Thursday,04:35 PM TO 05:50 PM,LT-F,ME-M,Aruna Kumar Dash,1
+Monday,04:35 PM TO 05:50 PM,LT-G,AFM-N,Sita Ramaiah,1
+Tuesday,04:35 PM TO 05:50 PM,LT-G,AFM-N,Sita Ramaiah,1
+Wednesday,04:35 PM TO 05:50 PM,LT-G,OB-N,Pavan Kumar Balivada,1
+Thursday,04:35 PM TO 05:50 PM,LT-G,OB-N,Pavan Kumar Balivada,1
+Monday,04:35 PM TO 05:50 PM,LT-H,MIS-A,U Moulali,1
+Tuesday,04:35 PM TO 05:50 PM,LT-H,MIS-A,U Moulali,1
+Wednesday,04:35 PM TO 05:50 PM,LT-H,SEM-A,Neeharika Marisetti,1
+Thursday,04:35 PM TO 05:50 PM,LT-H,SEM-A,Neeharika Marisetti,1
+Monday,04:35 PM TO 05:50 PM,LT-I,FM-B,Nitya Nand,1
+Tuesday,04:35 PM TO 05:50 PM,LT-I,FM-B,Nitya Nand,1
+Wednesday,04:35 PM TO 05:50 PM,LT-I,DS-B,Shubhagata Roy,1
+Thursday,04:35 PM TO 05:50 PM,LT-I,DS-B,Shubhagata Roy,1
+Monday,04:35 PM TO 05:50 PM,LT-J,MM1-C,Madhavi,1
+Tuesday,04:35 PM TO 05:50 PM,LT-J,MM1-C,Madhavi,1
+Wednesday,04:35 PM TO 05:50 PM,LT-J,DS-C,Ramesh Kandela,1
+Thursday,04:35 PM TO 05:50 PM,LT-J,DS-C,Ramesh Kandela,1
+Monday,04:35 PM TO 05:50 PM,LT-K,ME-D,Rama Sesha Sarma,1
+Tuesday,04:35 PM TO 05:50 PM,LT-K,ME-D,Rama Sesha Sarma,1
+Wednesday,04:35 PM TO 05:50 PM,LT-K,SEM-D,Bholenath Thakur,1
+Thursday,04:35 PM TO 05:50 PM,LT-K,SEM-D,Bholenath Thakur,1
+Wednesday,04:35 PM TO 05:50 PM,LT-L,BPI-D,J PRINCE VIJAI,3
+Thursday,04:35 PM TO 05:50 PM,LT-L,BPI-D,J PRINCE VIJAI,3
+Monday,04:35 PM TO 05:50 PM,CR-7,CRL-A,Anitha Acharya,3 (MK)
+Tuesday,04:35 PM TO 05:50 PM,CR-7,CRL-A,Anitha Acharya,3 (MK)
+Wednesday,04:35 PM TO 05:50 PM,CR-7,BS-N,Dwarakanath Siriguppi,3
+Thursday,04:35 PM TO 05:50 PM,CR-7,BS-N,Dwarakanath Siriguppi,3
+Monday,04:35 PM TO 05:50 PM,CR-8,CRL-B,Mithilesh Kumar Pandey,3 (MK)
+Tuesday,04:35 PM TO 05:50 PM,CR-8,CRL-B,Mithilesh Kumar Pandey,3 (MK)
+Wednesday,04:35 PM TO 05:50 PM,CR-8,ETDB-G,A Sandeep,
+Thursday,04:35 PM TO 05:50 PM,CR-8,ETDB-G,A Sandeep,3
+Monday,04:35 PM TO 05:50 PM,CR-10,CRL-C,Purna Prabhakar,3 (MK)
+Tuesday,04:35 PM TO 05:50 PM,CR-10,CRL-C,Purna Prabhakar,3 (MK)
+Wednesday,04:35 PM TO 05:50 PM,CR-10,IVB-A,Kameshwar Rao,
+Thursday,04:35 PM TO 05:50 PM,CR-10,IVB-A,Kameshwar Rao,3
+Monday,04:35 PM TO 05:50 PM,CR-11,CRL-D,Achyut Kiran Telang,3 (MK)
+Tuesday,04:35 PM TO 05:50 PM,CR-11,CRL-D,Achyut Kiran Telang,3 (MK)
+Wednesday,04:35 PM TO 05:50 PM,CR-11,BIA-B,Maruthy Subrahmanyam,
+Thursday,04:35 PM TO 05:50 PM,CR-11,BIA-B,Maruthy Subrahmanyam,3
+Monday,04:35 PM TO 05:50 PM,CR-1,CRL-E,Nishchala Sripathi,3 (MK)
+Tuesday,04:35 PM TO 05:50 PM,CR-1,CRL-E,Nishchala Sripathi,3 (MK)
+Wednesday,04:35 PM TO 05:50 PM,CR-1,BDM-A,Pankaj Kumar Singh,
+Thursday,04:35 PM TO 05:50 PM,CR-1,BDM-A,Pankaj Kumar Singh,3
+Monday,04:35 PM TO 05:50 PM,CR-2,CRL-F,SREENIVASACHARY,3 (MK)
+Tuesday,04:35 PM TO 05:50 PM,CR-2,CRL-F,SREENIVASACHARY,3 (MK)
+Wednesday,04:35 PM TO 05:50 PM,CR-2,FME-D,Srikanth,
+Thursday,04:35 PM TO 05:50 PM,CR-2,FME-D,Srikanth,3
+Monday,04:35 PM TO 05:50 PM,CR-3,CRL-G,Bhanu Sireesha,3 (FI)
+Tuesday,04:35 PM TO 05:50 PM,CR-3,CRL-G,Bhanu Sireesha,3 (FI)
+Wednesday,04:35 PM TO 05:50 PM,CR-3,PMRS-A,Rama Swathi,
+Thursday,04:35 PM TO 05:50 PM,CR-3,PMRS-A,Rama Swathi,3
+Monday,04:35 PM TO 05:50 PM,CR-4,CRL-H,RICHA,3 (FI)
+Tuesday,04:35 PM TO 05:50 PM,CR-4,CRL-H,RICHA,3 (FI)
+Wednesday,04:35 PM TO 05:50 PM,CR-4,MT-A,Kanishka Pathak,
+Thursday,04:35 PM TO 05:50 PM,CR-4,MT-A,Kanishka Pathak,3
+Monday,04:35 PM TO 05:50 PM,CR-5,CRL-I,Anita,3 (FI)
+Tuesday,04:35 PM TO 05:50 PM,CR-5,CRL-I,Anita,3 (FI)
+Monday,04:35 PM TO 05:50 PM,CR-6,CRL-J,Sakalya Sarma,3 (FI)
+Tuesday,04:35 PM TO 05:50 PM,CR-6,CRL-J,Sakalya Sarma,3 (FI)
+Monday,04:35 PM TO 05:50 PM,CR-17,CRL-K,Narender Miryala,3 (FI)
+Tuesday,04:35 PM TO 05:50 PM,CR-17,CRL-K,Narender Miryala,3 (FI)
+Monday,04:35 PM TO 05:50 PM,CR-18,CRL-L,Erram Ramesh,3 (FI)
+Tuesday,04:35 PM TO 05:50 PM,CR-18,CRL-L,Erram Ramesh,3 (FI)
+Monday,04:35 PM TO 05:50 PM,CR-19,CRL-M,MD SIKANDAR AZAM,3 (FI)
+Tuesday,04:35 PM TO 05:50 PM,CR-19,CRL-M,MD SIKANDAR AZAM,3 (FI)
+Monday,04:35 PM TO 05:50 PM,CR-20,CRL-N,Niraj Kishore,3 (HR)
+Tuesday,04:35 PM TO 05:50 PM,CR-20,CRL-N,Niraj Kishore,3 (HR)
+Monday,04:35 PM TO 05:50 PM,CR-21,CRL-O,Mohd Abdul Nayeem,3 (HR)
+Tuesday,04:35 PM TO 05:50 PM,CR-21,CRL-O,Mohd Abdul Nayeem,3 (HR)
+Monday,04:35 PM TO 05:50 PM,CR-22,CRL-P,K V S S N NARASIMHA MURTY,3 (OP)
+Tuesday,04:35 PM TO 05:50 PM,CR-22,CRL-P,K V S S N NARASIMHA MURTY,3 (OP)
