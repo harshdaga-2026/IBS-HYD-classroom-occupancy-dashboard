@@ -28,7 +28,7 @@ try:
 
     sheet = client.open("IBS Room Bookings").sheet1
 
-    st.success("Google Sheets Connected Successfully")
+   # st.success("Google Sheets Connected Successfully")
 
 except Exception as e:
     st.error(f"Google Sheets Error: {e}")
@@ -54,7 +54,7 @@ try:
 
     df = pd.read_csv("master_timetable.csv")
 
-    st.success("Timetable Loaded Successfully")
+   # st.success("Timetable Loaded Successfully")
 
     # ==================================================
     # KPI SECTION
