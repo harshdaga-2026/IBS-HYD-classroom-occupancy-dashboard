@@ -229,6 +229,71 @@ try:
         f"{occupancy_percent}%"
     )
 
+# ==================================================
+# BOOK ROOM
+# ==================================================
+
+st.header("Book a Room")
+
+with st.form("booking_form"):
+
+    requester = st.text_input("Your Name")
+
+    email = st.text_input("Email")
+
+    event_name = st.text_input("Event Name")
+
+    booking_day = st.selectbox(
+        "Day",
+        sorted(df["Day"].dropna().unique())
+    )
+
+    booking_time = st.selectbox(
+        "Time Slot",
+        sorted(df["Time_Slot"].dropna().unique())
+    )
+
+    booking_room = st.selectbox(
+        "Room",
+        sorted(all_rooms)
+    )
+
+    submit = st.form_submit_button("Submit Booking Request")
+
+    if submit:
+
+        occupied_rooms = df[
+            (df["Day"] == booking_day)
+            &
+            (df["Time_Slot"] == booking_time)
+        ]["Room"].tolist()
+
+        if booking_room in occupied_rooms:
+
+            st.error(
+                "Room already occupied by a class."
+            )
+
+        else:
+
+            request_id = len(sheet.get_all_records()) + 1
+
+            sheet.append_row([
+                request_id,
+                "",
+                booking_day,
+                booking_time,
+                booking_room,
+                event_name,
+                requester,
+                email,
+                "Pending"
+            ])
+
+            st.success(
+                "Booking Request Submitted Successfully!"
+            )
+            
 except Exception as e:
 
     st.error(f"Error: {e}")
