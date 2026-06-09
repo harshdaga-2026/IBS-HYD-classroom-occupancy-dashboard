@@ -228,8 +228,7 @@ try:
         "Occupancy %",
         f"{occupancy_percent}%"
     )
-
-# ==================================================
+    # ==================================================
 # BOOK ROOM
 # ==================================================
 
@@ -293,6 +292,8 @@ with st.form("booking_form"):
             st.success(
                 "Booking Request Submitted Successfully!"
             )
+
+
             
 except Exception as e:
 
