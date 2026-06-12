@@ -252,7 +252,7 @@ try:
     # BOOK ROOM
     # ==================================================
 
-            st.markdown(
+        st.markdown(
             "<div id='book-room'></div>",
             unsafe_allow_html=True
         )
