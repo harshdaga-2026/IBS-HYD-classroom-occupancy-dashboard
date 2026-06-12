@@ -10,6 +10,7 @@ st.set_page_config(
 )
 
 st.title("IBS-HYD Classroom Occupancy Dashboard")
+book_now = st.button("📅 Book a Room")
 st.markdown(
     """
     <div style="text-align:right;">
@@ -253,6 +254,8 @@ try:
     # ==================================================
     
 
+    if book_now:
+        st.info("Scroll down to the Book a Room section below.")
     with st.form("booking_form"):
         
         st.header("📅 Book a Room")
