@@ -256,10 +256,8 @@ try:
             "<div id='book-room'></div>",
             unsafe_allow_html=True
         )
-    
+        
         st.header("📅 Book a Room")
-    
-        with st.form("booking_form"):
 
         requester = st.text_input("Your Name")
         email = st.text_input("Email")
