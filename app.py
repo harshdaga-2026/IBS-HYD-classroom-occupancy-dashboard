@@ -10,6 +10,25 @@ st.set_page_config(
 )
 
 st.title("IBS-HYD Classroom Occupancy Dashboard")
+st.markdown(
+    """
+    <div style="text-align:right;">
+        <a href="#book-room">
+            <button style="
+                background-color:#ff4b4b;
+                color:white;
+                border:none;
+                padding:10px 20px;
+                border-radius:8px;
+                font-size:16px;
+                cursor:pointer;">
+                📅 Book a Room
+            </button>
+        </a>
+    </div>
+    """,
+    unsafe_allow_html=True
+)
 
 # GOOGLE SHEETS CONNECTION
 
@@ -233,7 +252,12 @@ try:
     # BOOK ROOM
     # ==================================================
 
-    st.header("Book a Room")
+    st.markdown(
+    "<div id='book-room'></div>",
+    unsafe_allow_html=True
+)
+
+st.header("📅 Book a Room")
 
     with st.form("booking_form"):
 
