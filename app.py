@@ -253,11 +253,7 @@ try:
     # ==================================================
     
 
-with st.form("booking_form"):
-        st.markdown(
-            "<div id='book-room'></div>",
-            unsafe_allow_html=True
-        )
+    with st.form("booking_form"):
         
         st.header("📅 Book a Room")
 
